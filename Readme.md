@@ -121,11 +121,3 @@ Run the Streamlit application:
 ```bash
 streamlit run app.py
 ```
-
-## 🚀 Future Improvements
-
-- Improve the Streamlit interface
-- Add prediction visualizations
-- Compare additional regression models
-- Improve model preprocessing using Scikit-learn pipelines
-- Deploy the Streamlit application
